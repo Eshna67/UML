@@ -1,38 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T13:55:03.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="c3_FRb0Ta8_awh_k1fhY" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T15:09:37.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3wI63fAbmIFdgelXl1hY" version="14.4.8" type="github">
   <diagram id="d5tv9obm6iXpOw0BhTKf" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="728" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7QSNwZPO3CvysJkWfAVx-1" value="Customer" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="45" width="30" height="60" as="geometry" />
+          <mxGeometry x="27" y="336" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-2" value="Restaurant" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="45" width="30" height="60" as="geometry" />
+          <mxGeometry x="738" y="48" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-3" value="Application Admin" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7QSNwZPO3CvysJkWfAVx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QSNwZPO3CvysJkWfAVx-4" target="7QSNwZPO3CvysJkWfAVx-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="756" y="525" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-4" value="Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="34" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7QSNwZPO3CvysJkWfAVx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7QSNwZPO3CvysJkWfAVx-5" target="7QSNwZPO3CvysJkWfAVx-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="205" y="34" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="124" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7QSNwZPO3CvysJkWfAVx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7QSNwZPO3CvysJkWfAVx-9" target="7QSNwZPO3CvysJkWfAVx-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="205" y="124" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-9" value="Choose Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="214" width="140" height="70" as="geometry" />
+          <mxGeometry x="205" y="214" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7QSNwZPO3CvysJkWfAVx-11" value="Check the availability of restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="305" width="140" height="70" as="geometry" />
+          <mxGeometry x="205" y="305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-15" value="View Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="396" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-17" value="Select Item" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="486" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-19" value="View Order Cost" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="594" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7QSNwZPO3CvysJkWfAVx-19" target="7QSNwZPO3CvysJkWfAVx-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="312" y="594" as="sourcePoint" />
+            <mxPoint x="220" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-23" value="Login Module" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144.5" width="261" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-37" value="Remove Item" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="486" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSNwZPO3CvysJkWfAVx-43" value="Add Item" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="396" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
