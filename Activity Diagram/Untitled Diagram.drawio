@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-03T08:51:37.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Lsg5IWIGSmlhJXYR5cMx" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-03T08:54:25.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zgbbg5jaClT_-Mtadz7h" version="14.5.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="920" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,14 +10,14 @@
         <mxCell id="7" value="Search for a restaurant" style="" parent="2" vertex="1">
           <mxGeometry x="37.5" y="100" width="155" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IYL_6dEC4UDWxEco9Q9W-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="2" source="8" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8" value="Select Item " style="" parent="2" vertex="1">
           <mxGeometry x="37.5" y="310" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="10" value="View Total Cost" style="" parent="2" vertex="1">
-          <mxGeometry x="37.5" y="430" width="160" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="33.75" y="410" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="IYL_6dEC4UDWxEco9Q9W-75" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;fontSize=9;" vertex="1" parent="2">
           <mxGeometry x="97.5" y="180" width="32.5" height="30" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry x="690" y="120" width="280" height="568" as="geometry" />
         </mxCell>
         <mxCell id="15" value="Update Restaurant &#xa;Timings" style="" parent="3" vertex="1">
-          <mxGeometry x="20" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="20" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Display Restaurant&#39;s&#xa; Menu" style="" parent="3" vertex="1">
           <mxGeometry x="20" y="220" width="110" height="50" as="geometry" />
@@ -132,9 +132,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IYL_6dEC4UDWxEco9Q9W-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="18" target="10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IYL_6dEC4UDWxEco9Q9W-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="15" target="7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
